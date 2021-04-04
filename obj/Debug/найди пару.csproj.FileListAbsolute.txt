@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\найди пару\bin\Debug\найди пару.exe.config
+C:\Users\student\source\repos\найди пару\bin\Debug\найди пару.exe
+C:\Users\student\source\repos\найди пару\bin\Debug\найди пару.pdb
+C:\Users\student\source\repos\найди пару\obj\Debug\найди пару.csprojAssemblyReference.cache
+C:\Users\student\source\repos\найди пару\obj\Debug\найди_пару.Form1.resources
+C:\Users\student\source\repos\найди пару\obj\Debug\найди_пару.Properties.Resources.resources
+C:\Users\student\source\repos\найди пару\obj\Debug\найди пару.csproj.GenerateResource.cache
+C:\Users\student\source\repos\найди пару\obj\Debug\найди пару.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\найди пару\obj\Debug\найди пару.exe
+C:\Users\student\source\repos\найди пару\obj\Debug\найди пару.pdb
